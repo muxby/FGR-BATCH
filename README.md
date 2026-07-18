@@ -1,2 +1,2 @@
-Forza Horizon 5 - Queue-Based Parallel Downloader
+Queue-Based Parallel Downloader
 An automated Python script using Playwright to batch download files in parallel. Originally designed to handle multi-part game downloads (like Forza Horizon 5 repacks), this tool automatically reads links, navigates file-hosting sites, clicks the correct free download buttons while strictly avoiding "Premium" or ad traps, and saves the files locally.
